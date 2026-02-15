@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IngresoPython", "IngresoPython\IngresoPython.pyproj", "{481BA7F1-F951-43C3-B753-B3E2F9EC64C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481BA7F1-F951-43C3-B753-B3E2F9EC64C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481BA7F1-F951-43C3-B753-B3E2F9EC64C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EA1CCD7-B900-41A8-8172-ED7E3F127343}
+	EndGlobalSection
+EndGlobal
