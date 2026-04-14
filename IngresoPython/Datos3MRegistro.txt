@@ -1,0 +1,35 @@
+Nombre: Frida
+Apellido: Velazquez
+Edad: 20
+Telefono: 9651187834
+Estatura: 156
+Genero: Femenino
+
+Nombre: Frida
+Apellido: Velazquez
+Edad: 20
+Telefono: 9651187834
+Estatura: 1.56
+Genero: Femenino
+
+Nombre: Frida
+Apellido: Velaz
+Edad: 67
+Telefono: 1234567890
+Estatura: 134
+Genero: Femenino
+
+Nombre: Frida
+Apellido: Velazquez
+Edad: 20
+Teléfono: 9651187834
+Estatura: 1.54
+Género: Femenino
+-------------------------
+Nombre: f
+Apellido: v
+Edad: 4
+Teléfono: 1234567890
+Estatura: 5
+Género: Femenino
+-------------------------
